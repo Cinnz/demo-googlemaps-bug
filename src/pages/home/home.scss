@@ -1,0 +1,13 @@
+page-home {
+    #map {
+        height: 60%;
+        width: 100%;
+        z-index: 0;
+        background-color: black;
+    }
+    #mylist {
+        height: 40%;
+        width: 100%;
+        overflow: auto;
+    }
+}
